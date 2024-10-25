@@ -7,7 +7,7 @@ Copiar código
 ## Descrição
 Este projeto tem como objetivo desenvolver uma plataforma de análise de sentimentos utilizando dados de redes sociais, com foco em fornecer suporte às decisões na gestão pública. Através da coleta de tweets e da análise de sentimentos, os gestores públicos podem entender melhor a percepção da população sobre serviços essenciais como saúde, educação, transporte e segurança.
 
-## Tecnologias Utilizadas
+## Tecnologias que serão Utilizadas no projeto (pode mudar)
 - **Python**: Linguagem de programação principal.
 - **Tweepy**: Biblioteca para interação com a API do Twitter.
 - **NLTK / TextBlob**: Para processamento de linguagem natural e análise de sentimentos.
@@ -48,7 +48,7 @@ Contato
 Para mais informações, entre em contato:
 
 Nome: Sávio Vinícius de Sousa
-Email: [savio.vinw@gmail.com]
+Email: savio.vinw@gmail.com
 markdown
 
 
